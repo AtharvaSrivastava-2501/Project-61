@@ -1,0 +1,82 @@
+body{
+    margin:0;
+    padding-top: 800px;
+  text-align: center;
+    background-color: #fa50f1;
+}
+.profile{
+    width: 175px;
+    margin-bottom:50px;
+    border-radius: 50%;
+}
+#welcome{
+  position:  absolute;
+    overflow: hidden;
+    height: 800px;
+    color: black;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0.83;
+    background:linear-gradient(cyan 0%,#26f0b0 100%);
+    display:table; 
+    width: 100%;
+        height:100%;
+}
+.line{
+    background-color: black;
+    width: 70px;
+    height: 6px;
+    margin-left: 640px;
+}
+.menu{
+    list-style: none;
+    top: 100px;
+    font-family: sans-serif;
+    position: absolute;
+    left:50px;
+    z-index: 10;
+    cursor:pointer;
+    font-size: 20;
+    color: black;
+} 
+#about{
+    background-color: #fa50f1;
+}
+h2{
+    color: black;
+}
+p{
+    color: black;
+}
+#myfavoritebooks{
+    background-color: #4c9ded;
+}
+#mfb1{
+    height: 450px;
+    width: 350px;
+}
+#mfb2{
+   height: 450px;
+    width: 350px; 
+}
+#mw1{
+    height: 450px;
+    width: 350px;
+}
+#mw2{
+   height: 450px;
+    width: 350px; 
+}
+.jkrcd{
+    height: 300px;
+    width:250px;
+}
+#myinspiration{
+     background-color: #4c9ded;
+}
+#img1{
+    height: 50px;
+    width: 50px;
+}
